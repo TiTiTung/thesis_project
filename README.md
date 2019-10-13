@@ -20,8 +20,7 @@
 
 <P Align=center><img src="https://i.imgur.com/q5vj8Ah.jpg" width="70%"></p>
 
-![](https://i.imgur.com/n4aYgBw.jpg)
 
-<P Align=center><img src="https://i.imgur.com/q5vj8Ah.jpg" width="70%"></p>
+<P Align=center><img src="https://i.imgur.com/n4aYgBw.jpg" width="70%"></p>
 
 >經過視覺化分析後, 發現全球黃金持有量前10名的10各國家, 不論金價上漲或下跌, 在過去20年間, 其 黃金儲備量皆呈現恆定趨勢, 某些國家的儲備量甚至毫無變動。因此, 雖然無法從實證角度取得顯著證據, 但從視覺化等資料分析面相切入, 確實難以拒絕黃金儲備量存在最適值的假設。
